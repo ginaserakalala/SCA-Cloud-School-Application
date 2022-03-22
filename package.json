@@ -1,0 +1,22 @@
+{
+  "name": "sca-cloud-school-application",
+  "version": "1.0.0",
+  "description": "SCA Cloud School Application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginaserakalala/SCA-Cloud-School-Application.git"
+  },
+  "author": "Regina Serakalala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ginaserakalala/SCA-Cloud-School-Application/issues"
+  },
+  "homepage": "https://github.com/ginaserakalala/SCA-Cloud-School-Application#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
